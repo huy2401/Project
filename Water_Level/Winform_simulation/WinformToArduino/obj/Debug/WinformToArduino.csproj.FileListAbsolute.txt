@@ -1,0 +1,151 @@
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\WinformToArduino.exe.config
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\WinformToArduino.exe
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\WinformToArduino.pdb
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\ZedGraph.dll
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\ZedGraph.xml
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.Form1.resources
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.Properties.Resources.resources
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.CopyComplete
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.exe
+C:\Users\Asus\Desktop\C# Winforms\PROJECT\PROJECT-3#WINFORMtoARDUINO\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.pdb
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\WinformToArduino.exe.config
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\WinformToArduino.exe
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\WinformToArduino.pdb
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\ZedGraph.xml
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\de\ZedGraph.resources.dll
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\es\ZedGraph.resources.dll
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\fr\ZedGraph.resources.dll
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\hu\ZedGraph.resources.dll
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\it\ZedGraph.resources.dll
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\ja\ZedGraph.resources.dll
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\pt\ZedGraph.resources.dll
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\ru\ZedGraph.resources.dll
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\sk\ZedGraph.resources.dll
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\sv\ZedGraph.resources.dll
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\tr\ZedGraph.resources.dll
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.AssemblyReference.cache
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.Form1.resources
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.Properties.Resources.resources
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.GenerateResource.cache
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.CoreCompileInputs.cache
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.CopyComplete
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.exe
+D:\DTCS\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.pdb
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.Form1.resources
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.Properties.Resources.resources
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.exe
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.pdb
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\WinformToArduino.exe.config
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\WinformToArduino.exe
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\WinformToArduino.pdb
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\ZedGraph.xml
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Asus\Downloads\wetransfer_winformtoarduino_2021-11-30_1436\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.CopyComplete
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\WinformToArduino.exe.config
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\WinformToArduino.exe
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\WinformToArduino.pdb
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\ZedGraph.xml
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.Form1.resources
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.Properties.Resources.resources
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.CopyComplete
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.exe
+C:\Users\DELL\Downloads\WinformToArduino\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.pdb
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\WinformToArduino.exe.config
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\WinformToArduino.exe
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\WinformToArduino.pdb
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\ZedGraph.xml
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.Form1.resources
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.Properties.Resources.resources
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.csproj.CopyComplete
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.exe
+C:\Users\Asus\Desktop\WinformToArduino\WinformToArduino\WinformToArduino\obj\Debug\WinformToArduino.pdb
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\WinformToArduino.exe.config
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\WinformToArduino.exe
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\WinformToArduino.pdb
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\ZedGraph.xml
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\de\ZedGraph.resources.dll
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\es\ZedGraph.resources.dll
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\fr\ZedGraph.resources.dll
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\hu\ZedGraph.resources.dll
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\it\ZedGraph.resources.dll
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\ja\ZedGraph.resources.dll
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\pt\ZedGraph.resources.dll
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\ru\ZedGraph.resources.dll
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\sk\ZedGraph.resources.dll
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\sv\ZedGraph.resources.dll
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\tr\ZedGraph.resources.dll
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\obj\Debug\WinformToArduino.csproj.AssemblyReference.cache
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\obj\Debug\WinformToArduino.Form1.resources
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\obj\Debug\WinformToArduino.Properties.Resources.resources
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\obj\Debug\WinformToArduino.csproj.GenerateResource.cache
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\obj\Debug\WinformToArduino.csproj.CoreCompileInputs.cache
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\obj\Debug\WinformToArduino.csproj.CopyComplete
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\obj\Debug\WinformToArduino.exe
+D:\HK211\DTCS\BTL_DTCS\Visual Studio 2019\WinformToArduino\obj\Debug\WinformToArduino.pdb

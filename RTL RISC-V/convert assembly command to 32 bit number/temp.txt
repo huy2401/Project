@@ -1,0 +1,1434 @@
+LUI  x2, 663611
+ADDI x2, x2, 1006
+SW   x2, 1280(x0)
+ADDI x2, x0, 0
+LW   x10, 1280(x0)
+BEQ  x10 ,x0 ,600
+LW   x10, 1280(x0)
+SW   x10, 1024(x0)
+LB   x10, 1280(x0)
+SW   x10, 1040(x0)
+LB   x10, 1280(x0)
+SW   x10, 1056(x0)
+LB   x10, 1280(x0)
+SW   x10, 1072(x0)
+LB  x10, 1280(x0)
+SW   x10, 1088(x0)
+LW   x10, 1280(x0)
+SW   x10, 1104(x0)
+SW   x10, 1120(x0)
+SB   x12, 1104(x0)
+SB   x12, 1120(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+LW   x10, 1280(x0)
+LUI  x31, 374290
+ADDI x31, x31, 1017
+SW   x31, 1280(x0)
+ADD  x31, x0, x0
+LW   x11, 1280(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADD  x12, x10, x11
+SW   x12, 1024(x0)
+SUB  x12, x10, x11
+SW   x12, 1040(x0)
+ADDI x13, x12, 1999
+SW   x13, 1056(x0)
+ADDI x14, x12, 463
+SW   x14, 1072(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AND  x12, x10, x11
+SW   x12, 1024(x0)
+ADD  x5, x12, x0
+OR   x13, x10, x11
+SW   x13, 1040(x0)
+ADD  x6, x13, x0
+XOR  x14, x10, x11
+SW   x14, 1056(x0)
+ADD  x7, x14, x0
+ANDI  x12, x10, 463
+SW   x12, 1072(x0)
+ADD  x28, x12, x0
+ORI  x13, x10, 463
+SW   x13, 1088(x0)
+XORI x14, x10, 463
+SW   x14, 1104(x0)
+ANDI  x12, x10, 1999
+SW   x12, 1120(x0)
+ORI  x13, x10, 1999
+SW   x13, 1136(x0)
+XORI x14, x10, 1999
+SW   x14, 1152(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADD  x10, x0, x0
+ADD  x29, x0, x0
+SLT  x29, x7, x6
+OR   x10, x10, x29
+SLLI x10, x10, 1
+SLTU x29, x7, x6
+OR   x10, x10, x29
+SLLI x10, x10, 1
+SLT  x29, x6, x28
+OR   x10, x10, x29
+SLLI x10, x10, 1
+SLTU x29, x6, x28
+OR   x10, x10, x29
+SLLI x10, x10, 1
+SLT  x29, x28, x5
+OR   x10, x10, x29
+SLLI x10, x10, 1
+SLTU x29, x28, x5
+OR   x10, x10, x29
+SW   x10, 1024(x0)
+ADDI x5, x0, 26
+SLL  x11, x10, x5
+SRL  x12, x11, x5
+SRA  x13, x11, x5
+SW   x11, 1040(x0)
+SW   x12, 1056(x0)
+SW   x13, 1072(x0)
+SLLI x11, x10, 28
+SRLI x12, x11, 28
+SRAI x13, x11, 28
+SW   x11, 1088(x0)
+SW   x12, 1104(x0)
+SW   x13, 1120(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x10, x0, 21
+ADDI x11, x0, 73
+ADDI x12, x0, -21
+ADDI x13, x0, -73
+ADD  x14, x0, x11
+BEQ  x11 ,x14 ,36
+BEQ  x10 ,x11 ,80
+BNE  x10 ,x11 ,40
+BLT  x10 ,x11 ,48
+BGE  x12 ,x11 ,68
+BGEU x12 ,x11 ,52
+ADD  x6, x0, x1
+JALR x1, x1, 0
+BLTU x11 ,x13 ,52
+ADDI x5, x0, 12
+SLLI x5, x5, 4
+BEQ  x11 ,x14 ,-40
+ADDI x5, x5, 10
+SLLI x5, x5, 4
+BNE  x10 ,x11 ,-44
+ADDI x5, x5, 14
+SLLI x5, x5, 4
+BLT  x10 ,x11 ,-52
+ADDI x5, x5, 14
+SLLI x5, x5, 4
+BGE  x11 ,x12 ,-48
+SLLI x5, x5, 8
+ADDI x5, x5, 515
+SW   x5, 1152(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+JAL x1, -88
+AUIPC x10, 0
+SUB  x10, x10, x6
+BEQ  x10 ,x0 ,12
+ADD  x6, x0, x0
+JAL x0, 8
+SW   x6, 1024(x0)
+LUI  x5, 827571
+ADDI x5, x5, 515
+SW   x5, 1040(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x5, x0, 1
+SW   x5, 1168(x0)
+ADDI x0, x0, 0
+ADDI x1, x0, 0
+ADDI x2, x0, 1024
+ADDI x3, x0, 0
+ADDI x4, x0, 0
+ADDI x5, x0, 0
+ADDI x6, x0, 0
+ADDI x7, x0, 0
+ADDI x8, x0, 0
+ADDI x10, x0, 0
+ADDI x11, x0, 0
+ADDI x12, x0, 0
+ADDI x19, x0, 0
+ADDI x14, x0, 0
+ADDI x15, x0, 0
+ADDI x16, x0, 0
+ADDI x17, x0, 0
+ADDI x18, x0, 0
+ADDI x19, x0, 0
+ADDI x20, x0, 0
+ADDI x21, x0, 0
+ADDI x22, x0, 0
+ADDI x23, x0, 0
+ADDI x24, x0, 0
+ADDI x25, x0, 0
+ADDI x26, x0, 0
+ADDI x27, x0, 0
+ADDI x28, x0, 0
+ADDI x29, x0, 0
+ADDI x30, x0, 0
+ADDI x31, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x6, 1
+JALR x1, x6, -360
+ADDI x10, x0, 1
+AUIPC x6, 1
+JALR x1, x6, -180
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x6, 1
+JALR x1, x6, 384
+ADDI x10, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x11, x0, 63
+SW   x11, 0(x0)
+ADDI x11, x0, 6
+SW   x11, 4(x0)
+ADDI x11, x0, 91
+SW   x11, 8(x0)
+ADDI x11, x0, 79
+SW   x11, 12(x0)
+ADDI x11, x0, 102
+SW   x11, 16(x0)
+ADDI x11, x0, 109
+SW   x11, 20(x0)
+ADDI x11, x0, 125
+SW   x11, 24(x0)
+ADDI x11, x0, 7
+SW   x11, 28(x0)
+ADDI x11, x0, 127
+SW   x11, 32(x0)
+ADDI x11, x0, 103
+SW   x11, 36(x0)
+ADDI x11, x0, 119
+SW   x11, 40(x0)
+ADDI x11, x0, 124
+SW   x11, 44(x0)
+ADDI x11, x0, 57
+SW   x11, 48(x0)
+ADDI x11, x0, 94
+SW   x11, 52(x0)
+ADDI x11, x0, 121
+SW   x11, 56(x0)
+ADDI x11, x0, 113
+SW   x11, 60(x0)
+ADDI x11, x0, 64
+SW   x11, 64(x0)
+LUI  x11, 524288
+ADDI x11, x11, 1584
+SW   x11, 68(x0)
+LW   x5, 1168(x0)
+SLLI x5, x5, 1
+ADDI x5, x5, 1
+SW   x5, 1168(x0)
+AUIPC x6, 1
+JALR x1, x6, -1764
+SW   x10, 1152(x0)
+SW   x10, 80(x0)
+AUIPC x6, 1
+JALR x1, x6, -1332
+SW   x10, 1152(x0)
+SW   x10, 84(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+LW   x5, 1168(x0)
+SLLI x5, x5, 1
+ADDI x5, x5, 1
+SW   x5, 1168(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x6, 1
+JALR x1, x6, -1500
+SW   x10, 1152(x0)
+SW   x10, 88(x0)
+AUIPC x6, 1
+JALR x1, x6, -1404
+SW   x10, 1152(x0)
+SW   x10, 92(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+LW   x5, 1168(x0)
+SLLI x5, x5, 1
+ADDI x5, x5, 1
+SW   x5, 1168(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x6, 0
+JALR x1, x6, 724
+SW   x10, 1152(x0)
+SW   x10, 96(x0)
+AUIPC x6, 1
+JALR x1, x6, -1476
+SW   x10, 1152(x0)
+SW   x10, 100(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+LW   x5, 1168(x0)
+SLLI x5, x5, 1
+ADDI x5, x5, 1
+SW   x5, 1168(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x6, 0
+JALR x1, x6, 996
+SW   x10, 1152(x0)
+SW   x10, 104(x0)
+AUIPC x6, 1
+JALR x1, x6, -1548
+SW   x10, 1152(x0)
+SW   x10, 108(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+LW   x5, 1168(x0)
+SLLI x5, x5, 1
+ADDI x5, x5, 1
+SW   x5, 1168(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x6, 0
+JALR x1, x6, 1640
+SW   x10, 1152(x0)
+SW   x10, 112(x0)
+AUIPC x6, 1
+JALR x1, x6, -1620
+SW   x10, 1152(x0)
+SW   x10, 116(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+LW   x5, 1168(x0)
+SLLI x5, x5, 1
+ADDI x5, x5, 1
+SW   x5, 1168(x0)
+ANDI  x10, x10, 255
+ANDI  x5, x10, 15
+SLLI x5, x5, 2
+LW   x30, 0(x5)
+SW   x30, 1120(x0)
+ANDI  x5, x10, 240
+SRLI x5, x5, 2
+LW   x30, 0(x5)
+SW   x30, 1136(x0)
+ANDI  x5, x10, 128
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+LW   x5, 84(x0)
+SW   x5, 1152(x0)
+AUIPC x6, 1
+JALR x1, x6, 88
+LW   x10, 1280(x0)
+LUI  x5, 12
+ADDI x5, x5, 0
+AND  x10, x10, x5
+SRLI x10, x10, 14
+LW   x5, 72(x0)
+BEQ  x10 ,x5 ,-40
+SW   x10, 72(x0)
+BEQ  x10 ,x0 ,24
+ADDI x5, x0, 1
+BEQ  x10 ,x5 ,48
+ADDI x5, x0, 2
+BEQ  x10 ,x5 ,136
+JAL x0, 228
+ADDI x10, x0, 1
+AUIPC x6, 1
+JALR x1, x6, -864
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x6, 1
+JALR x1, x6, -300
+JAL x0, -100
+ADDI x10, x0, 1
+AUIPC x6, 1
+JALR x1, x6, -896
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x6, 1
+JALR x1, x6, -532
+LW   x10, 84(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x6, 1
+JALR x1, x6, -1276
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x6, 1
+JALR x1, x6, -468
+LW   x10, 92(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x6, 1
+JALR x1, x6, -1312
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+JAL x0, -196
+ADDI x10, x0, 1
+AUIPC x6, 1
+JALR x1, x6, -992
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x6, 1
+JALR x1, x6, -900
+LW   x10, 100(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x6, 1
+JALR x1, x6, -1372
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x6, 1
+JALR x1, x6, -836
+LW   x10, 108(x0)
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x6, 1
+JALR x1, x6, -1408
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+JAL x0, -292
+JAL x0, -296
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x9, x10, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x2, x2, -48
+SW   x1, 44(x2)
+SW   x8, 40(x2)
+ADDI x8, x2, 48
+SW   x10, -36(x8)
+SW   x11, -40(x8)
+LW   x14, -36(x8)
+LW   x15, -40(x8)
+BNE  x14 ,x15 ,16
+LW   x15, -36(x8)
+SW   x15, -20(x8)
+JAL x0, 72
+LW   x14, -36(x8)
+LW   x15, -40(x8)
+BGE  x15 ,x14 ,24
+LW   x14, -36(x8)
+LW   x15, -40(x8)
+SUB  x15, x14, x15
+SW   x15, -36(x8)
+JAL x0, 20
+LW   x14, -40(x8)
+LW   x15, -36(x8)
+SUB  x15, x14, x15
+SW   x15, -40(x8)
+LW   x11, -40(x8)
+LW   x10, -36(x8)
+AUIPC x6, 0
+JALR x1, x6, -104
+SW   x10, -20(x8)
+LW   x15, -20(x8)
+ADDI x10, x15, 0
+LW   x1, 44(x2)
+LW   x8, 40(x2)
+ADDI x2, x2, 48
+JALR x0, x1, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+LUI  x15, 36
+ADDI x15, x15, 1920
+SW   x15, -20(x8)
+LUI  x15, 12
+ADDI x15, x15, -916
+SW   x15, -24(x8)
+LW   x11, -24(x8)
+LW   x10, -20(x8)
+AUIPC x6, 0
+JALR x1, x6, -188
+SW   x10, -28(x8)
+LW   x15, -28(x8)
+ADDI x10, x15, 0
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x1, 0
+JALR x1, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x2, x2, -48
+SW   x1, 44(x2)
+SW   x8, 40(x2)
+ADDI x8, x2, 48
+SW   x10, -36(x8)
+SW   x11, -40(x8)
+SW   x12, -44(x8)
+SW   x13, -48(x8)
+SW   x0, -20(x8)
+LW   x14, -36(x8)
+ADDI x15, x0, 1
+BNE  x14 ,x15 ,16
+ADDI x15, x0, 1
+SW   x15, -20(x8)
+JAL x0, 140
+LW   x15, -36(x8)
+ADDI x15, x15, -1
+LW   x13, -44(x8)
+LW   x12, -48(x8)
+LW   x11, -40(x8)
+ADDI x10, x15, 0
+AUIPC x6, 0
+JALR x1, x6, -84
+ADDI x14, x10, 0
+LW   x15, -20(x8)
+ADD  x15, x15, x14
+SW   x15, -20(x8)
+LW   x13, -48(x8)
+LW   x12, -44(x8)
+LW   x11, -40(x8)
+ADDI x10, x0, 1
+AUIPC x6, 0
+JALR x1, x6, -124
+ADDI x14, x10, 0
+LW   x15, -20(x8)
+ADD  x15, x15, x14
+SW   x15, -20(x8)
+LW   x15, -36(x8)
+ADDI x15, x15, -1
+LW   x13, -48(x8)
+LW   x12, -40(x8)
+LW   x11, -44(x8)
+ADDI x10, x15, 0
+AUIPC x6, 0
+JALR x1, x6, -172
+ADDI x14, x10, 0
+LW   x15, -20(x8)
+ADD  x15, x15, x14
+SW   x15, -20(x8)
+LW   x15, -20(x8)
+ADDI x10, x15, 0
+LW   x1, 44(x2)
+LW   x8, 40(x2)
+ADDI x2, x2, 48
+JALR x0, x1, 0
+ADDI x2, x2, -48
+SW   x1, 44(x2)
+SW   x8, 40(x2)
+ADDI x8, x2, 48
+ADDI x15, x0, 1
+SW   x15, -20(x8)
+ADDI x15, x0, 2
+SW   x15, -24(x8)
+ADDI x15, x0, 3
+SW   x15, -28(x8)
+ADDI x15, x0, 16
+SW   x15, -32(x8)
+LW   x13, -28(x8)
+LW   x12, -24(x8)
+LW   x11, -20(x8)
+LW   x10, -32(x8)
+AUIPC x6, 0
+JALR x1, x6, -284
+SW   x10, -36(x8)
+LW   x15, -36(x8)
+ADDI x10, x15, 0
+LW   x1, 44(x2)
+LW   x8, 40(x2)
+ADDI x2, x2, 48
+JALR x0, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x2, x2, -48
+SW   x1, 44(x2)
+SW   x8, 40(x2)
+ADDI x8, x2, 48
+SW   x10, -36(x8)
+SW   x11, -40(x8)
+SW   x12, -44(x8)
+SW   x13, -48(x8)
+LW   x14, -48(x8)
+LW   x15, -44(x8)
+SUB  x15, x14, x15
+SRLI x14, x15, 31
+ADD  x15, x14, x15
+SRAI x15, x15, 1
+ADDI x14, x15, 0
+LW   x15, -44(x8)
+ADD  x15, x15, x14
+SW   x15, -20(x8)
+LW   x14, -44(x8)
+LW   x15, -48(x8)
+BGE  x15 ,x14 ,12
+ADDI x15, x0, -1
+JAL x0, 144
+LW   x15, -20(x8)
+SLLI x15, x15, 2
+LW   x14, -36(x8)
+ADD  x15, x14, x15
+LW   x15, 0(x15)
+LW   x14, -40(x8)
+BNE  x14 ,x15 ,12
+LW   x15, -20(x8)
+JAL x0, 108
+LW   x15, -20(x8)
+SLLI x15, x15, 2
+LW   x14, -36(x8)
+ADD  x15, x14, x15
+LW   x15, 0(x15)
+LW   x14, -40(x8)
+BGE  x14 ,x15 ,44
+LW   x15, -20(x8)
+ADDI x15, x15, -1
+ADDI x13, x15, 0
+LW   x12, -44(x8)
+LW   x11, -40(x8)
+LW   x10, -36(x8)
+AUIPC x6, 0
+JALR x1, x6, -180
+ADDI x15, x10, 0
+JAL x0, 40
+LW   x15, -20(x8)
+ADDI x15, x15, 1
+LW   x13, -48(x8)
+ADDI x12, x15, 0
+LW   x11, -40(x8)
+LW   x10, -36(x8)
+AUIPC x6, 0
+JALR x1, x6, -220
+ADDI x15, x10, 0
+ADDI x10, x15, 0
+LW   x1, 44(x2)
+LW   x8, 40(x2)
+ADDI x2, x2, 48
+JALR x0, x1, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+SW   x10, -20(x8)
+SW   x11, -24(x8)
+SW   x12, -28(x8)
+LW   x15, -28(x8)
+ADDI x15, x15, -1
+ADDI x13, x15, 0
+ADDI x12, x0, 0
+LW   x11, -24(x8)
+LW   x10, -20(x8)
+AUIPC x6, 0
+JALR x1, x6, -304
+ADDI x15, x10, 0
+ADDI x10, x15, 0
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x2, x2, -48
+SW   x8, 44(x2)
+ADDI x8, x2, 48
+SW   x10, -36(x8)
+SW   x11, -40(x8)
+SW   x0, -20(x8)
+JAL x0, 204
+SW   x0, -24(x8)
+JAL x0, 160
+LW   x15, -24(x8)
+ADDI x15, x15, 1
+SLLI x15, x15, 2
+LW   x14, -36(x8)
+ADD  x15, x14, x15
+LW   x14, 0(x15)
+LW   x15, -24(x8)
+SLLI x15, x15, 2
+LW   x13, -36(x8)
+ADD  x15, x13, x15
+LW   x15, 0(x15)
+BGE  x14 ,x15 ,100
+LW   x15, -24(x8)
+SLLI x15, x15, 2
+LW   x14, -36(x8)
+ADD  x15, x14, x15
+LW   x15, 0(x15)
+SW   x15, -28(x8)
+LW   x15, -24(x8)
+ADDI x15, x15, 1
+SLLI x15, x15, 2
+LW   x14, -36(x8)
+ADD  x14, x14, x15
+LW   x15, -24(x8)
+SLLI x15, x15, 2
+LW   x13, -36(x8)
+ADD  x15, x13, x15
+LW   x14, 0(x14)
+SW   x14, 0(x15)
+LW   x15, -24(x8)
+ADDI x15, x15, 1
+SLLI x15, x15, 2
+LW   x14, -36(x8)
+ADD  x15, x14, x15
+LW   x14, -28(x8)
+SW   x14, 0(x15)
+LW   x15, -24(x8)
+ADDI x15, x15, 1
+SW   x15, -24(x8)
+LW   x14, -40(x8)
+LW   x15, -20(x8)
+SUB  x15, x14, x15
+ADDI x15, x15, -1
+LW   x14, -24(x8)
+BLT  x14 ,x15 ,-176
+LW   x15, -20(x8)
+ADDI x15, x15, 1
+SW   x15, -20(x8)
+LW   x15, -40(x8)
+ADDI x15, x15, -1
+LW   x14, -20(x8)
+BLT  x14 ,x15 ,-212
+ADDI x0, x0, 0
+ADDI x10, x15, 0
+LW   x8, 44(x2)
+ADDI x2, x2, 48
+JALR x0, x1, 0
+ADDI x2, x2, -92
+SW   x1, 88(x2)
+SW   x8, 84(x2)
+ADDI x8, x2, 92
+ADDI x16, x0, 37
+SW   x16, -80(x8)
+ADDI x10, x0, 2
+SW   x10, -76(x8)
+ADDI x11, x0, 13
+SW   x11, -72(x8)
+ADDI x12, x0, 3
+SW   x12, -68(x8)
+ADDI x13, x0, 19
+SW   x13, -64(x8)
+ADDI x14, x0, 7
+SW   x14, -60(x8)
+ADDI x15, x0, 5
+SW   x15, -56(x8)
+ADDI x17, x0, 11
+SW   x17, -52(x8)
+ADDI x16, x0, 47
+SW   x16, -48(x8)
+ADDI x10, x0, 17
+SW   x10, -44(x8)
+ADDI x11, x0, 29
+SW   x11, -40(x8)
+ADDI x12, x0, 43
+SW   x12, -36(x8)
+ADDI x13, x0, 31
+SW   x13, -32(x8)
+ADDI x14, x0, 23
+SW   x14, -28(x8)
+ADDI x15, x0, 41
+SW   x15, -24(x8)
+ADDI x15, x8, -80
+ADDI x11, x0, 15
+ADDI x10, x15, 0
+AUIPC x6, 0
+JALR x1, x6, -412
+ADDI x15, x8, -80
+ADDI x12, x0, 15
+ADDI x11, x0, 31
+ADDI x10, x15, 0
+AUIPC x6, 0
+JALR x1, x6, -520
+SW   x10, -20(x8)
+LW   x15, -20(x8)
+ADDI x10, x15, 0
+LW   x1, 88(x2)
+LW   x8, 84(x2)
+ADDI x2, x2, 82
+JALR x0, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x1, 0
+JALR x1, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+SW   x9, 20(x2)
+ADDI x8, x2, 32
+SW   x10, -20(x8)
+LW   x14, -20(x8)
+ADDI x15, x0, 1
+BLT  x15 ,x14 ,12
+LW   x15, -20(x8)
+JAL x0, 56
+LW   x15, -20(x8)
+ADDI x15, x15, -1
+ADDI x10, x15, 0
+AUIPC x6, 0
+JALR x1, x6, -56
+ADDI x9, x10, 0
+LW   x15, -20(x8)
+ADDI x15, x15, -2
+ADDI x10, x15, 0
+AUIPC x6, 0
+JALR x1, x6, -80
+ADDI x15, x10, 0
+ADD  x15, x9, x15
+ADDI x10, x15, 0
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+LW   x9, 20(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x2, x2, -32
+SW   x8, 28(x2)
+ADDI x8, x2, 32
+SW   x10, -20(x8)
+LW   x15, -20(x8)
+ADDI x10, x15, 0
+LW   x8, 28(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+ADDI x15, x0, 29
+SW   x15, -20(x8)
+LW   x10, -20(x8)
+AUIPC x6, 0
+JALR x1, x6, -184
+ADDI x15, x10, 0
+ADDI x10, x15, 0
+AUIPC x6, 0
+JALR x1, x6, -80
+SW   x10, -24(x8)
+LW   x15, -24(x8)
+ADDI x10, x15, 0
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x1, 0
+JALR x1, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x2, x2, -48
+SW   x8, 44(x2)
+ADDI x8, x2, 48
+SW   x10, -36(x8)
+SW   x11, -40(x8)
+SW   x0, -24(x8)
+SW   x0, -20(x8)
+JAL x0, 32
+LW   x14, -24(x8)
+LW   x15, -36(x8)
+ADD  x15, x14, x15
+SW   x15, -24(x8)
+LW   x15, -20(x8)
+ADDI x15, x15, 1
+SW   x15, -20(x8)
+LW   x14, -20(x8)
+LW   x15, -40(x8)
+BLTU x14 ,x15 ,-36
+LW   x15, -24(x8)
+ADDI x10, x15, 0
+LW   x8, 44(x2)
+ADDI x2, x2, 48
+JALR x0, x1, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+SW   x10, -20(x8)
+LW   x15, -20(x8)
+BNE  x15 ,x0 ,12
+ADDI x15, x0, 0
+JAL x0, 72
+LW   x14, -20(x8)
+ADDI x15, x0, 1
+BNE  x14 ,x15 ,12
+ADDI x15, x0, 1
+JAL x0, 52
+LW   x15, -20(x8)
+ADDI x15, x15, -1
+ADDI x10, x15, 0
+AUIPC x6, 0
+JALR x1, x6, -68
+ADDI x15, x10, 0
+ADDI x11, x15, 0
+LW   x10, -20(x8)
+AUIPC x6, 0
+JALR x1, x6, -180
+SW   x10, -20(x8)
+LW   x15, -20(x8)
+ADDI x10, x15, 0
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+ADDI x15, x0, 11
+SW   x15, -20(x8)
+LW   x15, -20(x8)
+ADDI x10, x15, 0
+AUIPC x6, 0
+JALR x1, x6, -156
+ADDI x15, x10, 0
+SW   x15, -24(x8)
+LW   x15, -24(x8)
+ADDI x10, x15, 0
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+AUIPC x1, 0
+JALR x1, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+ADDI x15, x10, 0
+ADDI x11, x0, 0
+LUI  x12, 2441
+ADDI x12, x12, 1664
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x12, 24(x2)
+ADDI x8, x2, 32
+AUIPC x6, 0
+JALR x1, x6, 344
+SLLI x11, x11, 4
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+LUI  x12, 244
+ADDI x12, x12, 576
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x12, 24(x2)
+ADDI x8, x2, 32
+AUIPC x6, 0
+JALR x1, x6, 296
+SLLI x11, x11, 4
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+LUI  x12, 24
+ADDI x12, x12, 1696
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x12, 24(x2)
+ADDI x8, x2, 32
+AUIPC x6, 0
+JALR x1, x6, 248
+SLLI x11, x11, 4
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+LUI  x12, 2
+ADDI x12, x12, 1808
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x12, 24(x2)
+ADDI x8, x2, 32
+AUIPC x6, 0
+JALR x1, x6, 200
+SLLI x11, x11, 4
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+ADDI x12, x0, 1000
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x12, 24(x2)
+ADDI x8, x2, 32
+AUIPC x6, 0
+JALR x1, x6, 156
+SLLI x11, x11, 4
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+ADDI x12, x0, 100
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x12, 24(x2)
+ADDI x8, x2, 32
+AUIPC x6, 0
+JALR x1, x6, 112
+SLLI x11, x11, 4
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+ADDI x12, x0, 10
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x12, 24(x2)
+ADDI x8, x2, 32
+AUIPC x6, 0
+JALR x1, x6, 68
+SLLI x11, x11, 4
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+ADDI x12, x0, 1
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+AUIPC x6, 0
+JALR x1, x6, 24
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JAL x0, 24
+BGE  x15 ,x12 ,8
+JALR x0, x1, 0
+ADDI x11, x11, 1
+SUB  x15, x15, x12
+JAL x0, -16
+ADDI x10, x11, 0
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+ADDI x5, x0, 6
+BEQ  x5 ,x11 ,12
+BEQ  x0 ,x11 ,48
+JAL x0, 100
+ANDI  x5, x10, 15
+SLLI x5, x5, 2
+LW   x11, 0(x5)
+SW   x11, 1120(x0)
+SRLI x10, x10, 4
+ANDI  x5, x10, 15
+SLLI x5, x5, 2
+LW   x11, 0(x5)
+SW   x11, 1136(x0)
+JAL x0, 60
+ANDI  x5, x10, 15
+SLLI x5, x5, 2
+LW   x11, 0(x5)
+SW   x11, 1024(x0)
+SRLI x10, x10, 4
+ANDI  x5, x10, 15
+SLLI x5, x5, 2
+LW   x11, 0(x5)
+SW   x11, 1040(x0)
+SRLI x10, x10, 4
+ANDI  x5, x10, 15
+SLLI x5, x5, 2
+LW   x11, 0(x5)
+SW   x11, 1056(x0)
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+ADDI x12, x0, 8
+ADDI x11, x0, 0
+ADD  x15, x0, x10
+BEQ  x0 ,x12 ,28
+SLLI x11, x11, 4
+ANDI  x6, x15, 15
+OR   x11, x11, x6
+SRLI x15, x15, 4
+ADDI x12, x12, -1
+JAL x0, -24
+ANDI  x5, x11, 15
+BEQ  x5 ,x0 ,8
+JAL x0, 24
+SRLI x11, x11, 4
+LUI  x6, 983040
+ADDI x6, x6, 0
+OR   x11, x11, x6
+JAL x0, -28
+ANDI  x6, x11, 15
+ADDI x7, x0, 10
+BGE  x6 ,x7 ,40
+ADDI x10, x6, 0
+ADDI x10, x10, 48
+AUIPC x6, 0
+JALR x1, x6, 132
+SRLI x11, x11, 4
+LUI  x5, 983040
+ADDI x5, x5, 0
+OR   x11, x11, x5
+JAL x0, -44
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+ADDI x10, x0, 56
+AUIPC x6, 0
+JALR x1, x6, 172
+ADDI x10, x0, 15
+AUIPC x6, 0
+JALR x1, x6, 160
+ADDI x10, x0, 6
+AUIPC x6, 0
+JALR x1, x6, 148
+ADDI x10, x0, 1
+AUIPC x6, 0
+JALR x1, x6, 136
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+SW   x10, 20(x2)
+SW   x11, 16(x2)
+ADDI x11, x0, 500
+LUI  x12, 524288
+ADDI x12, x12, 1536
+OR   x10, x12, x10
+SW   x10, 1184(x0)
+AUIPC x6, 0
+JALR x1, x6, 1080
+ADDI x12, x0, 1024
+XOR  x10, x12, x10
+SW   x10, 1184(x0)
+AUIPC x6, 0
+JALR x1, x6, 1060
+LW   x10, 20(x2)
+LW   x11, 16(x2)
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+SW   x10, 20(x2)
+SW   x11, 16(x2)
+LUI  x11, 122
+ADDI x11, x11, 288
+LUI  x12, 524288
+ADDI x12, x12, 1024
+OR   x10, x12, x10
+SW   x10, 1184(x0)
+AUIPC x6, 0
+JALR x1, x6, 972
+ADDI x12, x0, 1024
+XOR  x10, x12, x10
+SW   x10, 1184(x0)
+AUIPC x6, 0
+JALR x1, x6, 952
+LW   x10, 20(x2)
+LW   x11, 16(x2)
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+ADDI x10, x0, 128
+AUIPC x6, 0
+JALR x1, x6, -128
+ADDI x10, x0, 71
+AUIPC x6, 0
+JALR x1, x6, -244
+ADDI x10, x0, 67
+AUIPC x6, 0
+JALR x1, x6, -256
+ADDI x10, x0, 68
+AUIPC x6, 0
+JALR x1, x6, -268
+ADDI x10, x0, 61
+AUIPC x6, 0
+JALR x1, x6, -280
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+ADDI x10, x0, 192
+AUIPC x6, 0
+JALR x1, x6, -228
+ADDI x10, x0, 84
+AUIPC x6, 0
+JALR x1, x6, -344
+ADDI x10, x0, 111
+AUIPC x6, 0
+JALR x1, x6, -356
+ADDI x10, x0, 119
+AUIPC x6, 0
+JALR x1, x6, -368
+ADDI x10, x0, 101
+AUIPC x6, 0
+JALR x1, x6, -380
+ADDI x10, x0, 114
+AUIPC x6, 0
+JALR x1, x6, -392
+ADDI x10, x0, 40
+AUIPC x6, 0
+JALR x1, x6, -404
+ADDI x10, x0, 49
+AUIPC x6, 0
+JALR x1, x6, -416
+ADDI x10, x0, 54
+AUIPC x6, 0
+JALR x1, x6, -428
+ADDI x10, x0, 41
+AUIPC x6, 0
+JALR x1, x6, -440
+ADDI x10, x0, 61
+AUIPC x6, 0
+JALR x1, x6, -452
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+ADDI x10, x0, 128
+AUIPC x6, 0
+JALR x1, x6, -400
+ADDI x10, x0, 70
+AUIPC x6, 0
+JALR x1, x6, -516
+ADDI x10, x0, 50
+AUIPC x6, 0
+JALR x1, x6, -528
+ADDI x10, x0, 57
+AUIPC x6, 0
+JALR x1, x6, -540
+ADDI x10, x0, 61
+AUIPC x6, 0
+JALR x1, x6, -552
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+ADDI x10, x0, 192
+AUIPC x6, 0
+JALR x1, x6, -500
+ADDI x10, x0, 49
+AUIPC x6, 0
+JALR x1, x6, -616
+ADDI x10, x0, 49
+AUIPC x6, 0
+JALR x1, x6, -628
+ADDI x10, x0, 33
+AUIPC x6, 0
+JALR x1, x6, -640
+ADDI x10, x0, 61
+AUIPC x6, 0
+JALR x1, x6, -652
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+ADDI x10, x0, 132
+AUIPC x6, 0
+JALR x1, x6, -600
+ADDI x10, x0, 67
+AUIPC x6, 0
+JALR x1, x6, -716
+ADDI x10, x0, 111
+AUIPC x6, 0
+JALR x1, x6, -728
+ADDI x10, x0, 109
+AUIPC x6, 0
+JALR x1, x6, -740
+ADDI x10, x0, 112
+AUIPC x6, 0
+JALR x1, x6, -752
+ADDI x10, x0, 117
+AUIPC x6, 0
+JALR x1, x6, -764
+ADDI x10, x0, 116
+AUIPC x6, 0
+JALR x1, x6, -776
+ADDI x10, x0, 101
+AUIPC x6, 0
+JALR x1, x6, -788
+ADDI x10, x0, 114
+AUIPC x6, 0
+JALR x1, x6, -800
+ADDI x10, x0, 194
+AUIPC x6, 0
+JALR x1, x6, -708
+ADDI x10, x0, 65
+AUIPC x6, 0
+JALR x1, x6, -824
+ADDI x10, x0, 114
+AUIPC x6, 0
+JALR x1, x6, -836
+ADDI x10, x0, 99
+AUIPC x6, 0
+JALR x1, x6, -848
+ADDI x10, x0, 104
+AUIPC x6, 0
+JALR x1, x6, -860
+ADDI x10, x0, 105
+AUIPC x6, 0
+JALR x1, x6, -872
+ADDI x10, x0, 116
+AUIPC x6, 0
+JALR x1, x6, -884
+ADDI x10, x0, 101
+AUIPC x6, 0
+JALR x1, x6, -896
+ADDI x10, x0, 99
+AUIPC x6, 0
+JALR x1, x6, -908
+ADDI x10, x0, 116
+AUIPC x6, 0
+JALR x1, x6, -920
+ADDI x10, x0, 117
+AUIPC x6, 0
+JALR x1, x6, -932
+ADDI x10, x0, 114
+AUIPC x6, 0
+JALR x1, x6, -944
+ADDI x10, x0, 101
+AUIPC x6, 0
+JALR x1, x6, -956
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADDI x2, x2, -32
+SW   x1, 28(x2)
+SW   x8, 24(x2)
+ADDI x8, x2, 32
+LW   x10, 1280(x0)
+ANDI  x10, x10, 255
+ANDI  x5, x10, 15
+SLLI x5, x5, 2
+LW   x30, 0(x5)
+SW   x30, 1088(x0)
+ANDI  x5, x10, 240
+SRLI x5, x5, 2
+LW   x30, 0(x5)
+SW   x30, 1104(x0)
+ANDI  x5, x10, 128
+BNE  x5 ,x0 ,12
+ADDI x5, x0, 0
+JAL x0, 16
+SUB  x10, x0, x10
+ANDI  x10, x10, 255
+LW   x5, 64(x0)
+SW   x5, 1072(x0)
+AUIPC x6, 0
+JALR x1, x6, -1900
+ADDI x0, x0, 0
+ADDI x11, x0, 0
+AUIPC x6, 0
+JALR x1, x6, -1476
+LW   x1, 28(x2)
+LW   x8, 24(x2)
+ADDI x2, x2, 32
+JALR x0, x1, 0
+ADDI x0, x0, 0
+ADDI x0, x0, 0
+ADD  x5, x11, x0
+BEQ  x5 ,x0 ,12
+ADDI x5, x5, -1
+JAL x0, -8
+JALR x0, x1, 0
